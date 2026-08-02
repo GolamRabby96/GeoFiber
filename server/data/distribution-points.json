@@ -1,0 +1,4146 @@
+[
+  {
+    "id": 1785668907677.9343,
+    "name": "RCC DATA Center",
+    "latitude": 23.780898,
+    "longitude": 90.402547,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907677.3728,
+    "name": "Royal Green Data center(RGDC)",
+    "latitude": 23.7282010983995,
+    "longitude": 90.4166374216467,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907677.9932,
+    "name": "Uttara, Dhaka",
+    "latitude": 23.866701,
+    "longitude": 90.399609,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907677.002,
+    "name": "Dhanmondi, Dhaka",
+    "latitude": 23.753644,
+    "longitude": 90.370125,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907677.0195,
+    "name": "Kawranbazar_Dhaka",
+    "latitude": 23.751014,
+    "longitude": 90.395916,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907677.398,
+    "name": "Panthapath, Dhaka",
+    "latitude": 23.750941,
+    "longitude": 90.38628,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907677.4265,
+    "name": "Gulshan-1, Dhaka",
+    "latitude": 23.780684547684,
+    "longitude": 90.4175869669553,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907677.5205,
+    "name": "Gulshan-2 New, Dhaka",
+    "latitude": 23.795564,
+    "longitude": 90.415675,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907677.171,
+    "name": "Banani, Dhaka",
+    "latitude": 23.7928642278998,
+    "longitude": 90.4078598168585,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907677.8296,
+    "name": "Baridhara, Dhaka",
+    "latitude": 23.807623,
+    "longitude": 90.4192,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907677.9954,
+    "name": "Mirpur-10, Dhaka",
+    "latitude": 23.806257,
+    "longitude": 90.370376,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907677.6904,
+    "name": "Nawabpur POP",
+    "latitude": 23.721385,
+    "longitude": 90.411089,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.3186,
+    "name": "Shantinagar, Dhaka",
+    "latitude": 23.738780821656,
+    "longitude": 90.4159721676163,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.6216,
+    "name": "Wari POP",
+    "latitude": 23.719649,
+    "longitude": 90.416325,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.3015,
+    "name": "Tongi POP",
+    "latitude": 23.885151,
+    "longitude": 90.399932,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.0059,
+    "name": "Chandra POP",
+    "latitude": 24.049169,
+    "longitude": 90.238108,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.4023,
+    "name": "Gazipur POP",
+    "latitude": 23.989346,
+    "longitude": 90.379154,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.2805,
+    "name": "DEPZ New, Dhaka",
+    "latitude": 23.953975,
+    "longitude": 90.273981,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.526,
+    "name": "Savar GQ POP",
+    "latitude": 23.854649,
+    "longitude": 90.260416,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.4607,
+    "name": "Narayanganj POP",
+    "latitude": 23.622871,
+    "longitude": 90.500867,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.6074,
+    "name": "GEC, Chottogram",
+    "latitude": 22.360414,
+    "longitude": 91.821414,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.6104,
+    "name": "Agrabad, Chottogram",
+    "latitude": 22.32622,
+    "longitude": 91.814755,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.2502,
+    "name": "Kalurghat, Chottogram",
+    "latitude": 22.388543,
+    "longitude": 91.86088,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.2678,
+    "name": "KEPZ, Chottogram",
+    "latitude": 22.271875,
+    "longitude": 91.789478,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.0608,
+    "name": "Lalkhan Bazar (Tankirpahar), Chottogram",
+    "latitude": 22.3473,
+    "longitude": 91.8191,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.943,
+    "name": "Sylhet Own",
+    "latitude": 24.885036,
+    "longitude": 91.880059,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.2048,
+    "name": "Rekabibazar, Sylhet",
+    "latitude": 24.90375,
+    "longitude": 91.860176,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.6824,
+    "name": "Khulna POP",
+    "latitude": 22.823957,
+    "longitude": 89.552303,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.808,
+    "name": "Cumilla Own",
+    "latitude": 23.461098,
+    "longitude": 91.182546,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.5012,
+    "name": "Mawna, Gazipur",
+    "latitude": 24.218185,
+    "longitude": 90.413827,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.1543,
+    "name": "Bogra CLP",
+    "latitude": 24.853662,
+    "longitude": 89.372995,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.485,
+    "name": "Rajshahi CLP",
+    "latitude": 24.369857,
+    "longitude": 88.602356,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.3313,
+    "name": "Rangpur Own",
+    "latitude": 25.7491077733691,
+    "longitude": 89.2538768885058,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.226,
+    "name": "Faridpur",
+    "latitude": 23.602029,
+    "longitude": 89.83354,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.591,
+    "name": "Rampura Own",
+    "latitude": 23.7594308314674,
+    "longitude": 90.4179761801394,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.6792,
+    "name": "Barishal Own",
+    "latitude": 22.704568,
+    "longitude": 90.370494,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.6118,
+    "name": "Kustia (Hamid ) POP",
+    "latitude": 23.904361,
+    "longitude": 89.140306,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.9373,
+    "name": "Jamuna Future Park, Dhaka",
+    "latitude": 23.813287,
+    "longitude": 90.423741,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.0537,
+    "name": "SYLHET Airport, Sylhet",
+    "latitude": 24.957908,
+    "longitude": 91.871752,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.6416,
+    "name": "CEPZ, Chottogram",
+    "latitude": 22.293414,
+    "longitude": 91.778786,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.3906,
+    "name": "Police Plaza Gulshan, Dhaka",
+    "latitude": 23.772926,
+    "longitude": 90.416216,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.4617,
+    "name": "InfoLink (Integration)",
+    "latitude": 23.812914,
+    "longitude": 90.424616,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.9006,
+    "name": "Pabna",
+    "latitude": 24.005583,
+    "longitude": 89.237194,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.0437,
+    "name": "Shatkhira",
+    "latitude": 22.709222,
+    "longitude": 89.071694,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.813,
+    "name": "Sherpur, Bogra",
+    "latitude": 24.671694,
+    "longitude": 89.416139,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.9517,
+    "name": "Sunamgonj",
+    "latitude": 25.071833,
+    "longitude": 91.399083,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.718,
+    "name": "Magura",
+    "latitude": 23.493056,
+    "longitude": 89.422222,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.2012,
+    "name": "Panchagarh",
+    "latitude": 26.332111,
+    "longitude": 88.555722,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.8494,
+    "name": "Chuadanga",
+    "latitude": 23.643677,
+    "longitude": 88.847081,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.6216,
+    "name": "Dinajpur",
+    "latitude": 25.634139,
+    "longitude": 88.640056,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.8867,
+    "name": "Belkuchi, Sirajganj",
+    "latitude": 24.297306,
+    "longitude": 89.695333,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.8794,
+    "name": "Shahjadpur, Siragonj",
+    "latitude": 24.176278,
+    "longitude": 89.593195,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.014,
+    "name": "Mongla I/A, Bagerhat",
+    "latitude": 22.529833,
+    "longitude": 89.590833,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.2874,
+    "name": "Benapole, Jessore",
+    "latitude": 23.041306,
+    "longitude": 88.891056,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.504,
+    "name": "Chandina, Comilla",
+    "latitude": 23.482667,
+    "longitude": 91.004611,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.552,
+    "name": "Narail",
+    "latitude": 23.165583,
+    "longitude": 89.498333,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.701,
+    "name": "Cox's Bazar",
+    "latitude": 21.441886,
+    "longitude": 91.982804,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.926,
+    "name": "BeaniBazar, Sylhet",
+    "latitude": 24.821556,
+    "longitude": 92.158056,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.7126,
+    "name": "Bheramara, kustia",
+    "latitude": 24.021306,
+    "longitude": 88.9915,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.769,
+    "name": "Nilphamari",
+    "latitude": 25.934917,
+    "longitude": 88.8515,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.5833,
+    "name": "Chapainawabganj",
+    "latitude": 24.598722,
+    "longitude": 88.274833,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.373,
+    "name": "Narsingdi",
+    "latitude": 23.92225,
+    "longitude": 90.722278,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.082,
+    "name": "Kurigram",
+    "latitude": 25.812528,
+    "longitude": 89.644833,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.4907,
+    "name": "Baralekha, Moulvibazar",
+    "latitude": 24.696944,
+    "longitude": 92.189222,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.5952,
+    "name": "Pathalia, Dhamrai, Dhaka",
+    "latitude": 23.907164,
+    "longitude": 90.227973,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.5078,
+    "name": "Chandpur",
+    "latitude": 23.227,
+    "longitude": 90.659833,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.7664,
+    "name": "Thakurgaon",
+    "latitude": 26.035278,
+    "longitude": 88.462778,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.9207,
+    "name": "Chatmohor, Pabna",
+    "latitude": 24.230194,
+    "longitude": 89.288583,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.8867,
+    "name": "Dashuria Bazar,Pabna",
+    "latitude": 24.110051,
+    "longitude": 89.123853,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.1616,
+    "name": "Basail, Tangail",
+    "latitude": 24.230278,
+    "longitude": 90.051667,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.9993,
+    "name": "Shibgonj Bazar, Chapai Nawabgonj",
+    "latitude": 24.684611,
+    "longitude": 88.157389,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.517,
+    "name": "Potnitola, Naogaon",
+    "latitude": 25.047056,
+    "longitude": 88.761139,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.646,
+    "name": "Mongla, Bagerhat",
+    "latitude": 22.473028,
+    "longitude": 89.605694,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.6782,
+    "name": "Morelganj, Bagerhat",
+    "latitude": 22.456028,
+    "longitude": 89.856806,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.5935,
+    "name": "Rajbari",
+    "latitude": 23.762892,
+    "longitude": 89.646415,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.6675,
+    "name": "Sherpur",
+    "latitude": 25.015861,
+    "longitude": 90.016417,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.4343,
+    "name": "Biswanath, Sylhet",
+    "latitude": 24.815528,
+    "longitude": 91.755222,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.6948,
+    "name": "Shariatpur",
+    "latitude": 23.219139,
+    "longitude": 90.348944,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.1313,
+    "name": "Manikgonj",
+    "latitude": 23.861028,
+    "longitude": 90.002556,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.7942,
+    "name": "Kalapara, Patuakhali",
+    "latitude": 21.986667,
+    "longitude": 90.227222,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.3064,
+    "name": "Pirojpur",
+    "latitude": 22.579167,
+    "longitude": 89.9765,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.0762,
+    "name": "Bakherganj. Barisal",
+    "latitude": 22.54175,
+    "longitude": 90.3365,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.4033,
+    "name": "Naogaon",
+    "latitude": 24.80725,
+    "longitude": 88.944639,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.918,
+    "name": "Patuakhali",
+    "latitude": 22.362957,
+    "longitude": 90.346548,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.3164,
+    "name": "Gouripur, Comilla",
+    "latitude": 23.54175,
+    "longitude": 90.783555,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.8442,
+    "name": "Barguna",
+    "latitude": 22.159467,
+    "longitude": 90.118886,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.769,
+    "name": "Jhalokati",
+    "latitude": 22.642528,
+    "longitude": 90.199861,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.444,
+    "name": "Netrakona",
+    "latitude": 24.880778,
+    "longitude": 90.732722,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.222,
+    "name": "Rangamati",
+    "latitude": 22.653694,
+    "longitude": 92.179056,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.434,
+    "name": "Kishorgonj",
+    "latitude": 24.432139,
+    "longitude": 90.782222,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.5571,
+    "name": "Lakshmipur",
+    "latitude": 22.939766,
+    "longitude": 90.830559,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.197,
+    "name": "Dagonbhuiya, Feni",
+    "latitude": 22.937306,
+    "longitude": 91.302972,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.584,
+    "name": "Tarabo, Narayangonj",
+    "latitude": 23.736583,
+    "longitude": 90.520972,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.4192,
+    "name": "Haluaghat, Mymensing",
+    "latitude": 25.125278,
+    "longitude": 90.340694,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.621,
+    "name": "Jamalpur",
+    "latitude": 24.91721,
+    "longitude": 89.94942,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.0835,
+    "name": "Silonia Bazar, Feni",
+    "latitude": 22.98,
+    "longitude": 91.336667,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.2808,
+    "name": "Bagerhat",
+    "latitude": 22.657222,
+    "longitude": 89.797778,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.794,
+    "name": "Natore",
+    "latitude": 24.413222,
+    "longitude": 88.989361,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.4812,
+    "name": "Ramu, Coxsbazar",
+    "latitude": 21.432333,
+    "longitude": 92.104889,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.5693,
+    "name": "Habiganj",
+    "latitude": 24.382361,
+    "longitude": 91.413194,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.6265,
+    "name": "Debiganj, Panchagarh",
+    "latitude": 26.119944,
+    "longitude": 88.759556,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.3293,
+    "name": "Takerhat, Rajoir, Madaripur",
+    "latitude": 23.229556,
+    "longitude": 90.017833,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.2751,
+    "name": "Elenga bazar, Tangile",
+    "latitude": 24.335167,
+    "longitude": 89.923833,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.211,
+    "name": "Noakhali",
+    "latitude": 22.866556,
+    "longitude": 91.103167,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.3682,
+    "name": "Navaron, Jessore",
+    "latitude": 23.058452,
+    "longitude": 88.998815,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.356,
+    "name": "Sonaimuri, Noakhali",
+    "latitude": 23.038444,
+    "longitude": 91.097639,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.641,
+    "name": "Ishwardi, Pabna",
+    "latitude": 24.126917,
+    "longitude": 89.064556,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.5044,
+    "name": "Modonpur, Narayangonj",
+    "latitude": 23.691944,
+    "longitude": 90.547,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.7292,
+    "name": "Shibgonj, Bogra",
+    "latitude": 25.008167,
+    "longitude": 89.313944,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.671,
+    "name": "Jhinaigati, Sherpur",
+    "latitude": 25.190139,
+    "longitude": 90.066889,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.2744,
+    "name": "Madarganj, Jamalpur",
+    "latitude": 24.901511,
+    "longitude": 89.718694,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.1157,
+    "name": "Khagrachhari",
+    "latitude": 23.106111,
+    "longitude": 91.981944,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.4043,
+    "name": "Sonagazi, Feni",
+    "latitude": 22.849444,
+    "longitude": 91.391667,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.0642,
+    "name": "Sirajgonj",
+    "latitude": 24.455556,
+    "longitude": 89.705056,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.075,
+    "name": "Siddirgonj, Narayangonj.",
+    "latitude": 23.680889,
+    "longitude": 90.5155,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.2622,
+    "name": "Bhulta, Narayangonj",
+    "latitude": 23.784549,
+    "longitude": 90.565964,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.8416,
+    "name": "Shailokupa, Jhenaidah",
+    "latitude": 23.684639,
+    "longitude": 89.245695,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.3708,
+    "name": "Amtali, Barguna",
+    "latitude": 22.14,
+    "longitude": 90.227611,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.0845,
+    "name": "Bashkhali, Chittagong",
+    "latitude": 22.011634,
+    "longitude": 91.945331,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.2227,
+    "name": "Gaibandha",
+    "latitude": 25.329528,
+    "longitude": 89.545083,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.3638,
+    "name": "Bandarban",
+    "latitude": 22.196333,
+    "longitude": 92.218917,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.5476,
+    "name": "Kochua, Chandpur",
+    "latitude": 23.345028,
+    "longitude": 90.896167,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.0867,
+    "name": "Madaripur",
+    "latitude": 23.17725,
+    "longitude": 90.205139,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.2302,
+    "name": "Hajigonj, Chandpur",
+    "latitude": 23.250944,
+    "longitude": 90.854417,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.5513,
+    "name": "Madhupur, Tangile",
+    "latitude": 24.605028,
+    "longitude": 90.031194,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.7466,
+    "name": "Kotalipara, Gopalgonj",
+    "latitude": 22.986611,
+    "longitude": 89.986667,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.0454,
+    "name": "Polashbari, Gaibandha",
+    "latitude": 25.282018,
+    "longitude": 89.353455,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.6877,
+    "name": "Sathia, Pabna",
+    "latitude": 24.057444,
+    "longitude": 89.549972,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.6208,
+    "name": "Meherpur",
+    "latitude": 23.778111,
+    "longitude": 88.630528,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.2607,
+    "name": "Gaffargaon, Mymensingh",
+    "latitude": 24.453389,
+    "longitude": 90.55075,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.5781,
+    "name": "Rangunia, Chottogram",
+    "latitude": 22.46743,
+    "longitude": 92.055667,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.6472,
+    "name": "Bahubal, Habigonj",
+    "latitude": 24.341111,
+    "longitude": 91.54,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.6057,
+    "name": "Dasmina, Patuakhali",
+    "latitude": 22.280556,
+    "longitude": 90.5625,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.0806,
+    "name": "Pachbibi, Joypurhat",
+    "latitude": 25.186583,
+    "longitude": 89.020194,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.7466,
+    "name": "Kabirhat, Noakhali",
+    "latitude": 22.833624,
+    "longitude": 91.202831,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.1377,
+    "name": "Fulbaria, Mymensing",
+    "latitude": 24.631667,
+    "longitude": 90.270528,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.6724,
+    "name": "Bancharampur, Bramonbaria",
+    "latitude": 23.780528,
+    "longitude": 90.815278,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.5735,
+    "name": "Kamalnagar, Laxmipur",
+    "latitude": 22.738722,
+    "longitude": 90.866417,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.5713,
+    "name": "Nagarkanda, Faidpur",
+    "latitude": 23.413611,
+    "longitude": 89.891667,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.3965,
+    "name": "Bagherpara, Jessore",
+    "latitude": 23.222778,
+    "longitude": 89.345,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.3462,
+    "name": "Nakhla, Sherpur",
+    "latitude": 24.970444,
+    "longitude": 90.178944,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.243,
+    "name": "Boalkhali, Chottogram",
+    "latitude": 22.356222,
+    "longitude": 91.912306,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.739,
+    "name": "Bhandaria, Pirojpur",
+    "latitude": 22.482083,
+    "longitude": 90.059556,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.5347,
+    "name": "Chowddagram, Cumilla",
+    "latitude": 23.225889,
+    "longitude": 91.310139,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.704,
+    "name": "Kalihati, Tangail",
+    "latitude": 24.388806,
+    "longitude": 89.994417,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.1338,
+    "name": "Godagari, Rajshahi",
+    "latitude": 24.464167,
+    "longitude": 88.326944,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.2124,
+    "name": "Gangni, Meherpur",
+    "latitude": 23.817222,
+    "longitude": 88.752222,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.1707,
+    "name": "Araihazar, Narayangonj",
+    "latitude": 23.788333,
+    "longitude": 90.6575,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.4873,
+    "name": "Gobindagonj, Gaibandha",
+    "latitude": 25.137167,
+    "longitude": 89.389278,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.2246,
+    "name": "Companigonj, Noakhali",
+    "latitude": 22.872778,
+    "longitude": 91.2775,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.5627,
+    "name": "Ukhia, Coxsbazar",
+    "latitude": 21.246333,
+    "longitude": 92.136583,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.9636,
+    "name": "Kaunia, Rangpur",
+    "latitude": 25.773229,
+    "longitude": 89.428561,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.6562,
+    "name": "Raygonj, Shirajgonj",
+    "latitude": 24.523833,
+    "longitude": 89.537111,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.3474,
+    "name": "Kaligonj, Jhenaidah",
+    "latitude": 23.411667,
+    "longitude": 89.1375,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.2222,
+    "name": "Mirjaganj, Patuakhali",
+    "latitude": 22.366111,
+    "longitude": 90.218056,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.1106,
+    "name": "Faridganj, Chandpur",
+    "latitude": 23.136944,
+    "longitude": 90.743472,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.3584,
+    "name": "Rauzan, Chottogram",
+    "latitude": 22.538387,
+    "longitude": 91.914665,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.2236,
+    "name": "Fatikchari, Chottogram",
+    "latitude": 22.686243,
+    "longitude": 91.791805,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.671,
+    "name": "Mirpur, Kustia",
+    "latitude": 23.936167,
+    "longitude": 88.998972,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.757,
+    "name": "Fulbari, Dinajpur",
+    "latitude": 25.504,
+    "longitude": 88.955083,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.9924,
+    "name": "Ulipur, Kurigram",
+    "latitude": 25.659278,
+    "longitude": 89.618611,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.125,
+    "name": "Manirampur, Jessore",
+    "latitude": 23.023056,
+    "longitude": 89.234722,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.185,
+    "name": "Palash, Narshandi",
+    "latitude": 23.978472,
+    "longitude": 90.650556,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.373,
+    "name": "Homna, Cumilla",
+    "latitude": 23.676944,
+    "longitude": 90.7815,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.794,
+    "name": "Nesarabad, Pirojpur",
+    "latitude": 22.748611,
+    "longitude": 90.1025,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.1125,
+    "name": "Banaripara, Barisal",
+    "latitude": 22.783889,
+    "longitude": 90.159444,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.2034,
+    "name": "Potiya, Chottogram",
+    "latitude": 22.296833,
+    "longitude": 91.980194,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.3643,
+    "name": "Patgelgahata, Khulna",
+    "latitude": 22.769111,
+    "longitude": 89.163556,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907678.0159,
+    "name": "Nawabganj, Dhaka",
+    "latitude": 23.654583,
+    "longitude": 90.164722,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.6897,
+    "name": "Melandah, Jamalpur",
+    "latitude": 24.977722,
+    "longitude": 89.832778,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.9038,
+    "name": "Chandragonj, Laxmipur",
+    "latitude": 22.947444,
+    "longitude": 90.994417,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.593,
+    "name": "Uzirpur, Barishal",
+    "latitude": 22.820722,
+    "longitude": 90.243056,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.0671,
+    "name": "Tongibari, Munshigonj",
+    "latitude": 23.510722,
+    "longitude": 90.467361,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1377,
+    "name": "Kotchandpur, Jhenaidha",
+    "latitude": 23.406667,
+    "longitude": 89.010556,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.4773,
+    "name": "Pangsah, Rajbari",
+    "latitude": 23.799528,
+    "longitude": 89.412167,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5105,
+    "name": "Poba, Rajshahi",
+    "latitude": 24.458472,
+    "longitude": 88.615889,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8926,
+    "name": "Kumarkhali, Kustia",
+    "latitude": 23.856944,
+    "longitude": 89.238889,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.922,
+    "name": "Burichang, Cumilla",
+    "latitude": 23.553611,
+    "longitude": 91.127722,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8865,
+    "name": "Fulpur, Mymensing",
+    "latitude": 24.949861,
+    "longitude": 90.362722,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.173,
+    "name": "Parbatipur, Dinajpur",
+    "latitude": 25.655444,
+    "longitude": 88.917333,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.708,
+    "name": "Bhedargonj, Sariotpur",
+    "latitude": 23.199083,
+    "longitude": 90.44725,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.277,
+    "name": "Lalmonirhat",
+    "latitude": 25.917194,
+    "longitude": 89.444722,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8018,
+    "name": "Osmaninagar, Sylhet",
+    "latitude": 24.724833,
+    "longitude": 91.757667,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.9963,
+    "name": "Dewanganj, Jamalpur",
+    "latitude": 25.164528,
+    "longitude": 89.765556,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.439,
+    "name": "Fenchuganj, Sylhet",
+    "latitude": 24.700833,
+    "longitude": 91.944722,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.0188,
+    "name": "Charbhadrasan, Faidpur",
+    "latitude": 23.562611,
+    "longitude": 90.003694,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.7275,
+    "name": "Sarail, Bramonbaria",
+    "latitude": 24.072973,
+    "longitude": 91.117949,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.7393,
+    "name": "Jorargonj, Chottogram",
+    "latitude": 22.894781,
+    "longitude": 91.534783,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3845,
+    "name": "Sharishabari, Jamalpur",
+    "latitude": 24.751619,
+    "longitude": 89.830661,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.4392,
+    "name": "Jhikargacha, Jessore",
+    "latitude": 23.101389,
+    "longitude": 89.09925,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.812,
+    "name": "Pekua, Coxsbazar",
+    "latitude": 21.832672,
+    "longitude": 91.956724,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5012,
+    "name": "Boalmari, Faidpur",
+    "latitude": 23.387778,
+    "longitude": 89.68,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3206,
+    "name": "Madhukhali, Faidpur",
+    "latitude": 23.541908,
+    "longitude": 89.632492,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.178,
+    "name": "Moulvibazar",
+    "latitude": 24.489694,
+    "longitude": 91.766914,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.7578,
+    "name": "Chhagalnaia, Feni",
+    "latitude": 23.039861,
+    "longitude": 91.515833,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.2993,
+    "name": "Kalkini, Madaripur",
+    "latitude": 23.070083,
+    "longitude": 90.242472,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.9563,
+    "name": "Mazira, Bogra",
+    "latitude": 24.755833,
+    "longitude": 89.397389,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1108,
+    "name": "Gosairhat, Sariotpur",
+    "latitude": 23.067389,
+    "longitude": 90.438028,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.4424,
+    "name": "Bhola",
+    "latitude": 22.685722,
+    "longitude": 90.645722,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.822,
+    "name": "Kulaura, Moulovibazar",
+    "latitude": 24.526713,
+    "longitude": 92.037161,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.7021,
+    "name": "Mirzapur, Tangail",
+    "latitude": 24.1025,
+    "longitude": 90.095944,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.497,
+    "name": "Kendua, Netrokona",
+    "latitude": 24.661694,
+    "longitude": 90.842583,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.729,
+    "name": "Jaldhaka, Nilphamari",
+    "latitude": 26.020944,
+    "longitude": 89.015972,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.0342,
+    "name": "Katakhali, Bagerhat",
+    "latitude": 22.738889,
+    "longitude": 89.643333,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.6067,
+    "name": "Agoiljhara, Barishal",
+    "latitude": 22.968056,
+    "longitude": 90.155833,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.4993,
+    "name": "Raipur, Laxmipur",
+    "latitude": 23.036806,
+    "longitude": 90.767917,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.9102,
+    "name": "Golapganj, Sylhet",
+    "latitude": 24.857528,
+    "longitude": 92.012194,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.683,
+    "name": "Birganj, Dinajpur",
+    "latitude": 25.858583,
+    "longitude": 88.65325,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.4482,
+    "name": "Monohardi, Narshandi",
+    "latitude": 24.140972,
+    "longitude": 90.6983,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.9766,
+    "name": "Gouripur, Mymensingh",
+    "latitude": 24.759806,
+    "longitude": 90.5715,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1145,
+    "name": "Nalitabari, Sherpur",
+    "latitude": 25.087778,
+    "longitude": 90.190844,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.0833,
+    "name": "Pirganj, Rangpur",
+    "latitude": 25.416556,
+    "longitude": 89.308778,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1648,
+    "name": "Puthia, Rajshahi",
+    "latitude": 24.373417,
+    "longitude": 88.842611,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.0796,
+    "name": "Jagannathpur, Sunamgonj",
+    "latitude": 24.769167,
+    "longitude": 91.545833,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.7512,
+    "name": "Satkania, Chottogram",
+    "latitude": 22.075278,
+    "longitude": 92.052333,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.0776,
+    "name": "Senbag, Noakhali",
+    "latitude": 22.99,
+    "longitude": 91.232861,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.2788,
+    "name": "Shyamnagar, Satkhira",
+    "latitude": 22.347139,
+    "longitude": 89.105139,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.0088,
+    "name": "Gangachara, Rangpur",
+    "latitude": 25.853056,
+    "longitude": 89.221667,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5227,
+    "name": "Mathbaria, Pirojpur",
+    "latitude": 22.287222,
+    "longitude": 89.958611,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.2615,
+    "name": "Damudiya, Sariotpur",
+    "latitude": 23.143972,
+    "longitude": 90.447611,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.262,
+    "name": "Phartoli, Chottogram",
+    "latitude": 22.378972,
+    "longitude": 91.766861,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.446,
+    "name": "Hakimpur, Dinajpur",
+    "latitude": 25.281194,
+    "longitude": 89.010778,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.188,
+    "name": "Chatkhil, Noakhali",
+    "latitude": 23.0615,
+    "longitude": 90.96825,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.2295,
+    "name": "Fakirhat, Bagerhat",
+    "latitude": 22.775278,
+    "longitude": 89.716111,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5356,
+    "name": "Chakaria, Coxsbazar",
+    "latitude": 21.764278,
+    "longitude": 92.075778,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.336,
+    "name": "Sirajdikhan, Munshiganj",
+    "latitude": 23.574444,
+    "longitude": 90.380278,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5908,
+    "name": "Shibpur, Narshandi",
+    "latitude": 24.038306,
+    "longitude": 90.735222,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.7854,
+    "name": "Kasba, Bramonbaria",
+    "latitude": 23.744722,
+    "longitude": 91.149167,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.0356,
+    "name": "Mollarhat, Bagerhat",
+    "latitude": 22.931444,
+    "longitude": 89.804333,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.2083,
+    "name": "SRINAGAR, MUNSHIGANJ",
+    "latitude": 23.534778,
+    "longitude": 90.284333,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8477,
+    "name": "Munshigonj",
+    "latitude": 23.549,
+    "longitude": 90.534528,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1733,
+    "name": "Kolaroa, Satkhira",
+    "latitude": 22.85925,
+    "longitude": 89.040583,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5547,
+    "name": "Shiromoni, Khulna",
+    "latitude": 22.9142,
+    "longitude": 89.503015,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.826,
+    "name": "Jhenaidah",
+    "latitude": 23.544167,
+    "longitude": 89.172778,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.34,
+    "name": "Kustia",
+    "latitude": 23.906667,
+    "longitude": 89.134167,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.7822,
+    "name": "Ashuganj, Bramonbaria",
+    "latitude": 24.04075,
+    "longitude": 91.003972,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.235,
+    "name": "Joypurhat",
+    "latitude": 25.102889,
+    "longitude": 89.025972,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.825,
+    "name": "Barhatta, Netrokona",
+    "latitude": 24.895861,
+    "longitude": 90.880444,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8328,
+    "name": "Keraniganj, Dhaka",
+    "latitude": 23.677875,
+    "longitude": 90.427402,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.2178,
+    "name": "Singair, Manikgonj",
+    "latitude": 23.813861,
+    "longitude": 90.144667,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.2092,
+    "name": "Baneswar, Rajshahi",
+    "latitude": 24.368529,
+    "longitude": 88.756976,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.9358,
+    "name": "Trishal, Mymensingh",
+    "latitude": 24.582583,
+    "longitude": 90.39875,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.6104,
+    "name": "Gopalgonj",
+    "latitude": 23.008583,
+    "longitude": 89.830722,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5972,
+    "name": "Alamdanga, Chuadanga",
+    "latitude": 23.761167,
+    "longitude": 88.948556,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.7178,
+    "name": "Moheshpur, Jhinaidah",
+    "latitude": 23.354722,
+    "longitude": 88.915833,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8948,
+    "name": "Sariakandi, Bogra",
+    "latitude": 24.888139,
+    "longitude": 89.570222,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.131,
+    "name": "Muradnagar, Comilla",
+    "latitude": 23.641111,
+    "longitude": 90.928778,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3909,
+    "name": "Naldanga, Natore",
+    "latitude": 24.49925,
+    "longitude": 88.954917,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.9624,
+    "name": "Badarganj, Rangpur",
+    "latitude": 25.673444,
+    "longitude": 89.053167,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1484,
+    "name": "Nolcity, Jhalokathi",
+    "latitude": 22.638083,
+    "longitude": 90.271306,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8506,
+    "name": "Monoharganj, Comilla",
+    "latitude": 23.161806,
+    "longitude": 91.058222,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3508,
+    "name": "Nangolkot, Comilla",
+    "latitude": 23.166611,
+    "longitude": 91.198333,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.6504,
+    "name": "Mohadevpur, Naogaon",
+    "latitude": 24.910917,
+    "longitude": 88.753778,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.638,
+    "name": "Baraigram, Natore",
+    "latitude": 24.312972,
+    "longitude": 89.167583,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5164,
+    "name": "Bauphal, Patuakhali",
+    "latitude": 22.418944,
+    "longitude": 90.555889,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.2637,
+    "name": "Galachipa, Patuakhali",
+    "latitude": 22.170278,
+    "longitude": 90.409167,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.077,
+    "name": "Tanore, Rajshahi",
+    "latitude": 24.588083,
+    "longitude": 88.577278,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.9158,
+    "name": "Dhunat, Bogra",
+    "latitude": 24.685556,
+    "longitude": 89.537778,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.744,
+    "name": "Damurhuda, Chuadanga",
+    "latitude": 23.604167,
+    "longitude": 88.773889,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3628,
+    "name": "Singra, Natore",
+    "latitude": 24.504611,
+    "longitude": 89.143139,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1143,
+    "name": "Dumki, Patuakhali",
+    "latitude": 22.464444,
+    "longitude": 90.38,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1807,
+    "name": "Adamdighi, Bogra",
+    "latitude": 24.822,
+    "longitude": 89.040444,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.523,
+    "name": "Sundarganj, Gaibandhah",
+    "latitude": 25.563056,
+    "longitude": 89.521056,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5864,
+    "name": "Bhaluka, Mymensing",
+    "latitude": 24.402451,
+    "longitude": 90.383901,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.67,
+    "name": "Bagha, Rajshahi",
+    "latitude": 24.193611,
+    "longitude": 88.8365,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.7722,
+    "name": "Sapahar, Naogaon",
+    "latitude": 25.125194,
+    "longitude": 88.588278,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1428,
+    "name": "Chunarughat, Habigonj",
+    "latitude": 24.202943,
+    "longitude": 91.517687,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.956,
+    "name": "Khetlal, Joypurhat",
+    "latitude": 25.037611,
+    "longitude": 89.123417,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.0413,
+    "name": "Gabtali, Bogra",
+    "latitude": 24.881111,
+    "longitude": 89.448861,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1572,
+    "name": "Lakhai, Habigonj",
+    "latitude": 24.286389,
+    "longitude": 91.265139,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.2268,
+    "name": "Chowmuhani, Noakhali",
+    "latitude": 22.944722,
+    "longitude": 91.106167,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3079,
+    "name": "Atgoria, Pabna",
+    "latitude": 24.114306,
+    "longitude": 89.246444,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.0493,
+    "name": "Badalgachi, Naogaon",
+    "latitude": 24.961667,
+    "longitude": 88.90575,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1162,
+    "name": "Tarash, Sirajganj",
+    "latitude": 24.430889,
+    "longitude": 89.373556,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.2673,
+    "name": "Hatibandha, Lalmonirhat",
+    "latitude": 26.127806,
+    "longitude": 89.142528,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1204,
+    "name": "Saltha, Faridpur",
+    "latitude": 23.4375,
+    "longitude": 89.787778,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5684,
+    "name": "Koira,Khulna",
+    "latitude": 22.350111,
+    "longitude": 89.291528,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.6973,
+    "name": "Nandigram, Bogura",
+    "latitude": 24.647889,
+    "longitude": 89.249083,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.2412,
+    "name": "Durgapur, Rajshahi",
+    "latitude": 24.449083,
+    "longitude": 88.760889,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.7117,
+    "name": "Sholonga, Sirajganj",
+    "latitude": 24.420083,
+    "longitude": 89.511056,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3162,
+    "name": "Babugonj, Barisal",
+    "latitude": 22.818056,
+    "longitude": 90.324167,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.59,
+    "name": "Kawkhali, Pirojpur",
+    "latitude": 22.625167,
+    "longitude": 90.057389,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.915,
+    "name": "Saturia,Manikgonj",
+    "latitude": 23.972167,
+    "longitude": 90.037194,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.872,
+    "name": "Bamna, Barguna",
+    "latitude": 22.312222,
+    "longitude": 90.094583,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.378,
+    "name": "Taltoli, Barguna",
+    "latitude": 21.985861,
+    "longitude": 90.084972,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.6465,
+    "name": "Mujibnagar, Meherpur",
+    "latitude": 23.665722,
+    "longitude": 88.60425,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.681,
+    "name": "Dhobaura, Mymensingh",
+    "latitude": 25.090056,
+    "longitude": 90.522222,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.2576,
+    "name": "Sreebardi, Sherpur",
+    "latitude": 25.154417,
+    "longitude": 89.931806,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.2456,
+    "name": "Dhamoirhat, Naogaon",
+    "latitude": 25.148667,
+    "longitude": 88.854,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.193,
+    "name": "Raninagar, Naogaon",
+    "latitude": 24.736639,
+    "longitude": 88.964056,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5317,
+    "name": "Bakshiganj, Jamalpur",
+    "latitude": 25.185722,
+    "longitude": 89.87325,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.0186,
+    "name": "Tarakanda, Mymensingh",
+    "latitude": 24.861472,
+    "longitude": 90.428028,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3286,
+    "name": "Belabo,Narshindi",
+    "latitude": 24.099611,
+    "longitude": 90.849667,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5544,
+    "name": "Dhanbari, Tangail",
+    "latitude": 24.678139,
+    "longitude": 89.952028,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.6858,
+    "name": "Karimgonj, Kishoreganj",
+    "latitude": 24.465833,
+    "longitude": 90.868889,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.7883,
+    "name": "Tarail, Kishorgonj",
+    "latitude": 24.551722,
+    "longitude": 90.887361,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.4658,
+    "name": "Bera, Pabna",
+    "latitude": 24.080417,
+    "longitude": 89.62975,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1833,
+    "name": "Faridpur, Pabna",
+    "latitude": 24.160556,
+    "longitude": 89.443833,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.2498,
+    "name": "Muladi, Barisal",
+    "latitude": 22.913083,
+    "longitude": 90.408333,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3845,
+    "name": "Madan, Netrokona",
+    "latitude": 24.722667,
+    "longitude": 90.946722,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3672,
+    "name": "Hossainpur, Kishoregonj",
+    "latitude": 24.428375,
+    "longitude": 90.656286,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3499,
+    "name": "Matitranga, Khagrachhari",
+    "latitude": 23.04136,
+    "longitude": 91.873416,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5266,
+    "name": "Bhairab, Kishorgonj",
+    "latitude": 24.055556,
+    "longitude": 90.983333,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1218,
+    "name": "Nasirnagar, Brahmanbaria",
+    "latitude": 24.195611,
+    "longitude": 91.197778,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.276,
+    "name": "Jibannagar, Chuadanga",
+    "latitude": 23.423056,
+    "longitude": 88.819167,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5415,
+    "name": "Gouranadi, Barisal",
+    "latitude": 22.975139,
+    "longitude": 90.230806,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.0686,
+    "name": "Tangail",
+    "latitude": 24.254944,
+    "longitude": 89.919972,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8594,
+    "name": "Islampur, Jamalpur",
+    "latitude": 25.079361,
+    "longitude": 89.796278,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8474,
+    "name": "Purbadhala, Netrokona",
+    "latitude": 24.93875,
+    "longitude": 90.604389,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.482,
+    "name": "Akhaura, Brahmanbaria",
+    "latitude": 23.86802,
+    "longitude": 91.206227,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.6135,
+    "name": "Akkelpur, Joypurhat",
+    "latitude": 24.966639,
+    "longitude": 89.022278,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.7441,
+    "name": "Kuliarchar, Kishorgonj",
+    "latitude": 24.151833,
+    "longitude": 90.932278,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3313,
+    "name": "Atwari, Panchagarh",
+    "latitude": 26.239306,
+    "longitude": 88.405694,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.154,
+    "name": "Daulatpur, Kustia",
+    "latitude": 24.004383,
+    "longitude": 88.875779,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.076,
+    "name": "Rajapur, Jhalakati",
+    "latitude": 22.56732,
+    "longitude": 90.144004,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.782,
+    "name": "KASHINATHPUR, PABNA",
+    "latitude": 23.959111,
+    "longitude": 89.606633,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.699,
+    "name": "Sadarpur, Faridpur",
+    "latitude": 23.475139,
+    "longitude": 90.034159,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8179,
+    "name": "Shadullapur, Gaibandhah",
+    "latitude": 25.39111,
+    "longitude": 89.464802,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.047,
+    "name": "Mirerbazar, Pubail, Gazipur",
+    "latitude": 23.931851,
+    "longitude": 90.46199,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8691,
+    "name": "Boda, Panchagarh",
+    "latitude": 26.198896,
+    "longitude": 88.558847,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3752,
+    "name": "Shibchar, Madaripur",
+    "latitude": 23.345269,
+    "longitude": 90.167807,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1653,
+    "name": "Nabiganj, Hobigonj",
+    "latitude": 24.56635,
+    "longitude": 91.51952,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.85,
+    "name": "Baniachong, Hobigonj",
+    "latitude": 24.52573283,
+    "longitude": 91.35949941,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3218,
+    "name": "Baghmara, Rajshahi",
+    "latitude": 24.584225,
+    "longitude": 88.821202,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1116,
+    "name": "Mehdiganj, Barishal",
+    "latitude": 22.825608,
+    "longitude": 90.524574,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.6765,
+    "name": "Bangora, Comilla",
+    "latitude": 23.7147,
+    "longitude": 90.976839,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.061,
+    "name": "Terakhada, Khulna",
+    "latitude": 22.931781,
+    "longitude": 89.664603,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.6306,
+    "name": "Baliakandi, Rajbari",
+    "latitude": 23.634247,
+    "longitude": 89.545779,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1323,
+    "name": "Zia Nagar, Pirojpur",
+    "latitude": 22.488017,
+    "longitude": 89.966804,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.9998,
+    "name": "Mohanpur, Rajshahi",
+    "latitude": 24.550868,
+    "longitude": 88.647116,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5571,
+    "name": "Dohar, Dhaka",
+    "latitude": 23.61825,
+    "longitude": 90.119639,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.881,
+    "name": "Madhobpur, Hobigonj",
+    "latitude": 24.095015,
+    "longitude": 91.28978,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.0586,
+    "name": "Shahrasti, Comilla",
+    "latitude": 23.224679,
+    "longitude": 90.949876,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8816,
+    "name": "Niamatpur, Naogaon",
+    "latitude": 24.833767,
+    "longitude": 88.574212,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.4836,
+    "name": "Kuakata, Patuakhali",
+    "latitude": 21.822323,
+    "longitude": 90.118608,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.4087,
+    "name": "Kalmakanda, Netrokona",
+    "latitude": 25.077634,
+    "longitude": 90.885947,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.4062,
+    "name": "Durgapur, Netrokona",
+    "latitude": 25.124938,
+    "longitude": 90.675192,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3127,
+    "name": "Chittagong University, Chattogram",
+    "latitude": 22.476048,
+    "longitude": 91.813655,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8167,
+    "name": "Bhanga, Faridpur",
+    "latitude": 23.387689,
+    "longitude": 89.982031,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.9695,
+    "name": "Brahmonbaria BL",
+    "latitude": 23.96849,
+    "longitude": 91.110102,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3398,
+    "name": "Naria, Sharitpur",
+    "latitude": 23.30714245,
+    "longitude": 90.40816827,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1077,
+    "name": "Nawapara, Jessore",
+    "latitude": 23.0367,
+    "longitude": 89.391541,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3508,
+    "name": "Ghatail, Tangail",
+    "latitude": 24.48118,
+    "longitude": 89.97276,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.435,
+    "name": "Kumira, Chittagong",
+    "latitude": 22.47831877,
+    "longitude": 91.72131842,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.0789,
+    "name": "Borhanuddin, Bhola",
+    "latitude": 22.501483,
+    "longitude": 90.715158,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3171,
+    "name": "Pachdona, Narsingdi",
+    "latitude": 23.888189,
+    "longitude": 90.662913,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.6062,
+    "name": "Hotapara, Gazipur",
+    "latitude": 24.13588,
+    "longitude": 90.417222,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1245,
+    "name": "Syedpur , Nilphamari",
+    "latitude": 25.78109757,
+    "longitude": 88.8953029,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5825,
+    "name": "Sitakunda, Chittagong",
+    "latitude": 22.619021,
+    "longitude": 91.658569,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.0427,
+    "name": "Sreemangal, Moulovibazar",
+    "latitude": 24.309109,
+    "longitude": 91.730179,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5173,
+    "name": "Jessore",
+    "latitude": 23.165005,
+    "longitude": 89.213413,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.037,
+    "name": "Feni ",
+    "latitude": 23.009857,
+    "longitude": 91.399451,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.6182,
+    "name": "Jamalganj, Sunamgonj",
+    "latitude": 24.985016,
+    "longitude": 91.236845,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.0886,
+    "name": "Satkania, CTG BL",
+    "latitude": 22.127412,
+    "longitude": 92.127781,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.756,
+    "name": "Chandrakuna, Sherpur",
+    "latitude": 24.913648,
+    "longitude": 90.138864,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.7551,
+    "name": "Kaligonj, Gazipur",
+    "latitude": 23.922603,
+    "longitude": 90.56643,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.9421,
+    "name": "Bhurungamari, Kurigram",
+    "latitude": 26.111026,
+    "longitude": 89.670117,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.879,
+    "name": "Ranisankail, Thakurgonj",
+    "latitude": 25.909857,
+    "longitude": 88.255349,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5068,
+    "name": "Rajnagar, Moulovibazar",
+    "latitude": 24.52895,
+    "longitude": 91.858553,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.261,
+    "name": "Laksham, Comilla",
+    "latitude": 23.238108,
+    "longitude": 91.124136,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.825,
+    "name": "Megnaghat, Narayangonj",
+    "latitude": 23.617595,
+    "longitude": 90.613273,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.6047,
+    "name": "Patharghata, Burgona",
+    "latitude": 22.048704,
+    "longitude": 89.975624,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8909,
+    "name": "Lohagara,Chattogram",
+    "latitude": 22.018605,
+    "longitude": 92.099533,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.2136,
+    "name": "Kashiani, Gopalgonj",
+    "latitude": 23.23567,
+    "longitude": 89.72079,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.4949,
+    "name": "Hathazari, Chittagong",
+    "latitude": 22.504693,
+    "longitude": 91.806387,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.4346,
+    "name": "Madhabdi, Narshandi",
+    "latitude": 23.850585,
+    "longitude": 90.674689,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.715,
+    "name": "Kaligonj, Shatkhira",
+    "latitude": 22.44875,
+    "longitude": 89.04136111,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.0957,
+    "name": "Dhupchacia, Bogra",
+    "latitude": 24.877552,
+    "longitude": 89.174535,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5828,
+    "name": "Chuknagar, Khulna",
+    "latitude": 22.8399903,
+    "longitude": 89.29642854,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8027,
+    "name": "Debidar, Comilla",
+    "latitude": 23.602695,
+    "longitude": 90.988813,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.347,
+    "name": "Khoksa, Kustia (Vendor POP)",
+    "latitude": 23.803394,
+    "longitude": 89.280576,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.913,
+    "name": "Moynamoti, Comilla",
+    "latitude": 23.479403,
+    "longitude": 91.122406,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.7175,
+    "name": "Miresarai, CTG",
+    "latitude": 22.777189,
+    "longitude": 91.571842,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.4976,
+    "name": "Kathalia, Jhalokhati",
+    "latitude": 22.399676,
+    "longitude": 90.12498,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.4814,
+    "name": "Fulgazi, Feni",
+    "latitude": 23.154715,
+    "longitude": 91.432928,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3088,
+    "name": "Korotia, Tangile",
+    "latitude": 24.22272594,
+    "longitude": 89.97879331,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8152,
+    "name": "Ghior, Manikgonj",
+    "latitude": 23.898963,
+    "longitude": 89.869346,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.25,
+    "name": "Lohojong, Munshigonj",
+    "latitude": 23.46937,
+    "longitude": 90.33247,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.4158,
+    "name": "Anwara, CTG",
+    "latitude": 22.21468,
+    "longitude": 91.82978,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5493,
+    "name": "Kotiadi, Kishorgonj",
+    "latitude": 24.24619,
+    "longitude": 90.79669,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8708,
+    "name": "Shamsher Nagar, Moulovibazar",
+    "latitude": 24.38200862,
+    "longitude": 91.90212443,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.45,
+    "name": "Kapasia, Gazipur",
+    "latitude": 24.11089514,
+    "longitude": 90.566606,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.804,
+    "name": "Nagarpur, Tangail.",
+    "latitude": 24.05742,
+    "longitude": 89.87427,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.4534,
+    "name": "Nabinagar, Brahmanbaria",
+    "latitude": 23.884852,
+    "longitude": 90.970193,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.4812,
+    "name": "Matlob, Chandpur",
+    "latitude": 23.347106,
+    "longitude": 90.704456,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.7424,
+    "name": "Lalpur, Natore",
+    "latitude": 24.177247,
+    "longitude": 88.964919,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.043,
+    "name": "Muladuli Bazar,Pabna",
+    "latitude": 24.165861,
+    "longitude": 89.141611,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.2932,
+    "name": "Muktagacha, Mymensingh",
+    "latitude": 24.76153,
+    "longitude": 90.24936,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.318,
+    "name": "Mukterpur, Munshiganj",
+    "latitude": 23.571781,
+    "longitude": 90.515999,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.1199,
+    "name": "Fatulla, Narayanganj",
+    "latitude": 23.648318,
+    "longitude": 90.491959,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.2454,
+    "name": "Modongonj, Bandar, Narayanganj",
+    "latitude": 23.586032,
+    "longitude": 90.527184,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5994,
+    "name": "Dapunia Bazar, Mymensingh",
+    "latitude": 24.72220798,
+    "longitude": 90.35497293,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.771,
+    "name": "Shokhipur, Tangail",
+    "latitude": 24.324528,
+    "longitude": 90.167176,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8477,
+    "name": "Chhatak, Sunamganj",
+    "latitude": 25.028053,
+    "longitude": 91.654168,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.9897,
+    "name": "Derai, Sunamgonj",
+    "latitude": 24.78988,
+    "longitude": 91.352676,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.9321,
+    "name": "Bhuapur, Tangail",
+    "latitude": 24.46149,
+    "longitude": 89.87468,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.7756,
+    "name": "Sandwip, Chottogram",
+    "latitude": 22.48479,
+    "longitude": 91.46527,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.404,
+    "name": "Kalia, Norail",
+    "latitude": 23.042613,
+    "longitude": 89.631279,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.6113,
+    "name": "Hemayatpur",
+    "latitude": 23.792571,
+    "longitude": 90.269926,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.0918,
+    "name": "Seed Store, Mymensingh",
+    "latitude": 24.292728,
+    "longitude": 90.390545,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5059,
+    "name": "Porabari, Gazipur",
+    "latitude": 24.046025,
+    "longitude": 90.390108,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.684,
+    "name": "Teknaf, Coxsbazar",
+    "latitude": 20.867139,
+    "longitude": 92.299194,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.3381,
+    "name": "Diginala, Khagrachhari",
+    "latitude": 23.241111,
+    "longitude": 92.06684,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5125,
+    "name": "Bajitpur, Kishoreganj",
+    "latitude": 24.214888,
+    "longitude": 90.949952,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.9646,
+    "name": "Ramganj, Lakshmipur",
+    "latitude": 23.098695,
+    "longitude": 90.860102,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8044,
+    "name": "Kamarkhanda,Sirajganj",
+    "latitude": 24.356306,
+    "longitude": 89.660168,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.2024,
+    "name": "Nazirpur,Pirojpur",
+    "latitude": 22.702967,
+    "longitude": 89.985223,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.879,
+    "name": "Dumuria,Khulna",
+    "latitude": 22.804266,
+    "longitude": 89.419225,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8914,
+    "name": "Rupsa,Khulna",
+    "latitude": 22.800902,
+    "longitude": 89.586995,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.5962,
+    "name": "Charfassion, Bhola",
+    "latitude": 22.181919,
+    "longitude": 90.759348,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.77,
+    "name": "Daulatkhan, Bhola",
+    "latitude": 22.600725,
+    "longitude": 90.746524,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.9841,
+    "name": "Haim Char,Chandpur",
+    "latitude": 23.096121,
+    "longitude": 90.662289,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.9084,
+    "name": "Comilla Dakshin, Comilla",
+    "latitude": 23.421278,
+    "longitude": 91.168511,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907679.8237,
+    "name": "Muksudpur, Gopalganj",
+    "latitude": 23.310063,
+    "longitude": 89.869233,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.662,
+    "name": "Gurudaspur, Natore",
+    "latitude": 24.373825,
+    "longitude": 89.2461,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.1616,
+    "name": "Tazumuddin, Bhola",
+    "latitude": 22.41311111,
+    "longitude": 90.84680556,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.433,
+    "name": "Raipura,Narsingdi",
+    "latitude": 23.985121,
+    "longitude": 90.880828,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.531,
+    "name": "Bhomra, Satkhira",
+    "latitude": 22.667153,
+    "longitude": 88.948917,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.051,
+    "name": "Keshobpur, Jessore",
+    "latitude": 22.909433,
+    "longitude": 89.219851,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.445,
+    "name": "Dhaka Int Airport, Dhaka",
+    "latitude": 23.851199,
+    "longitude": 90.400999,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.3826,
+    "name": "Allah Dorga, Kustia",
+    "latitude": 24.029903,
+    "longitude": 88.907489,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.2034,
+    "name": "Mymensingh Own",
+    "latitude": 24.7587,
+    "longitude": 90.408148,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.9038,
+    "name": "Pakundia, Kishorgonj",
+    "latitude": 24.328,
+    "longitude": 90.67959,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.8262,
+    "name": "Kanaighat, Sylhet ",
+    "latitude": 25.006274,
+    "longitude": 92.260559,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.462,
+    "name": "Companigonj, Sylhet ",
+    "latitude": 25.080659,
+    "longitude": 91.758223,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.8528,
+    "name": "LALMOHAN, Bhola",
+    "latitude": 22.34129,
+    "longitude": 90.732062,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.1677,
+    "name": "PAIKGACHHA , Khulna",
+    "latitude": 22.589038,
+    "longitude": 89.324946,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.8823,
+    "name": "ASSASUNI, Satkhira\r\n",
+    "latitude": 22.539323,
+    "longitude": 89.168732,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.7761,
+    "name": "Chowgacha, Jessore",
+    "latitude": 23.26082,
+    "longitude": 89.02392,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.5146,
+    "name": "Tungipara, Gopalgonj ",
+    "latitude": 22.886658,
+    "longitude": 89.898099,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.6248,
+    "name": "Azmiriganj, Hobiganj",
+    "latitude": 24.561071,
+    "longitude": 91.235104,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.7158,
+    "name": "Bochaganj,Dinajpur",
+    "latitude": 25.806222,
+    "longitude": 88.46059,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.4995,
+    "name": "Mithamain, Kishoreganj",
+    "latitude": 24.41577,
+    "longitude": 91.05115,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.81,
+    "name": "Gopalpur, Tangail",
+    "latitude": 24.556381,
+    "longitude": 89.927649,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.789,
+    "name": "        Anwara-2, Chittagong",
+    "latitude": 22.222815,
+    "longitude": 91.905465,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.4253,
+    "name": "Rangabali, Patuakhali",
+    "latitude": 21.974277,
+    "longitude": 90.438611,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.7861,
+    "name": "Manpura, Bhola",
+    "latitude": 22.26043,
+    "longitude": 90.97263,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.5496,
+    "name": "Harinakunda, Jhenaidaha",
+    "latitude": 23.6521,
+    "longitude": 89.0491,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.896,
+    "name": "Shalikha, Magura",
+    "latitude": 23.37333,
+    "longitude": 89.37389,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.8616,
+    "name": "Shashibhushan, Bhola",
+    "latitude": 22.103691,
+    "longitude": 90.709719,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.1997,
+    "name": "Barura, Cumilla",
+    "latitude": 23.376208,
+    "longitude": 91.054489,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.2964,
+    "name": "CHAR ALEXANDER, LAXMIPUR",
+    "latitude": 22.657397,
+    "longitude": 90.910146,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.648,
+    "name": "Harirampur, Manikganj",
+    "latitude": 23.752819,
+    "longitude": 89.972496,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.0125,
+    "name": "Atrai, Naogaon",
+    "latitude": 24.614073,
+    "longitude": 88.976631,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.2056,
+    "name": "Kachua, Bagerhat",
+    "latitude": 22.64409,
+    "longitude": 89.87971,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.9001,
+    "name": "Itna,Kishoregonj",
+    "latitude": 24.528059,
+    "longitude": 91.088001,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.6362,
+    "name": "Goalondo, Rajbari",
+    "latitude": 23.72713,
+    "longitude": 89.759,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.4062,
+    "name": "Gazaria, Munshiganj",
+    "latitude": 23.5515,
+    "longitude": 90.6488,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.288,
+    "name": "Ishwarganj, Mymensingh",
+    "latitude": 24.68707,
+    "longitude": 90.59856,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.2634,
+    "name": "Austogram, Kishoreganj",
+    "latitude": 24.27758,
+    "longitude": 91.10966,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.455,
+    "name": "Hatia, Noakhali ",
+    "latitude": 22.295931,
+    "longitude": 91.140235,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.2754,
+    "name": "Rohanpur, Chapainawabgonj(Abdul Mannan Khan)",
+    "latitude": 24.820878,
+    "longitude": 88.321542,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.2412,
+    "name": "Nikunja, Dhaka",
+    "latitude": 23.8293,
+    "longitude": 90.4181,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.794,
+    "name": "COL COLO/ICRC, Cox's Bazar (Under Chittagong Online Limited)",
+    "latitude": 21.439422,
+    "longitude": 91.971523,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.9539,
+    "name": "Parulia Bazar, Debhata, Satkhira",
+    "latitude": 22.596472,
+    "longitude": 89.000306,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.8867,
+    "name": "Phultala, Khulna",
+    "latitude": 22.97442,
+    "longitude": 89.4762,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.1375,
+    "name": "Zakiganj, Sylhet",
+    "latitude": 24.877818,
+    "longitude": 92.370463,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.243,
+    "name": "BAGATIPARA, NATORE",
+    "latitude": 24.302999,
+    "longitude": 88.963137,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.8635,
+    "name": "Alfadanga, Faridpur",
+    "latitude": 23.297124,
+    "longitude": 89.701447,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.3052,
+    "name": "Lohagara, Norail",
+    "latitude": 23.190077,
+    "longitude": 89.646546,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.5876,
+    "name": "Ghoraghat, Dinajpur",
+    "latitude": 25.238861,
+    "longitude": 89.282056,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.2764,
+    "name": "Aushkandi, Habigonj",
+    "latitude": 24.591556,
+    "longitude": 91.603388,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.3765,
+    "name": "Goalabazar,  Sylhet",
+    "latitude": 24.707232,
+    "longitude": 91.733604,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.7605,
+    "name": "Golden Oil Mills, Narayangonj",
+    "latitude": 23.656261,
+    "longitude": 90.572141,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.587,
+    "name": "Tejgaon, Dhaka",
+    "latitude": 23.76938,
+    "longitude": 90.40852,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.9958,
+    "name": "Agargoan, Dhaka",
+    "latitude": 23.77887,
+    "longitude": 90.3703,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.1855,
+    "name": "Rajendrapur ,Gazipur",
+    "latitude": 24.09569442,
+    "longitude": 90.40158289,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.9846,
+    "name": "Rajoir, Madaripur",
+    "latitude": 23.20975077,
+    "longitude": 90.04903707,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.5942,
+    "name": "Daudkandi, Cumilla",
+    "latitude": 23.538668,
+    "longitude": 90.715401,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.9392,
+    "name": "Moheskhali, Cox’sbazar",
+    "latitude": 21.51947222222222,
+    "longitude": 91.96688888888889,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.2378,
+    "name": "ZAJIRA,SHARIOTPUR",
+    "latitude": 23.332269,
+    "longitude": 90.321558,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.5618,
+    "name": "Uttar Matlab, Chandpur",
+    "latitude": 23.430299,
+    "longitude": 90.611598,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.7786,
+    "name": "Chandanaish, Chattagram",
+    "latitude": 22.232145,
+    "longitude": 92.025163,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.8938,
+    "name": "ChirirBandar, Dinajpur",
+    "latitude": 25.65751,
+    "longitude": 88.77474,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.669,
+    "name": "Sonatola, Bogura",
+    "latitude": 25.03969396,
+    "longitude": 89.50080269,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.1943,
+    "name": "Nachole, Chapi Nawabganj",
+    "latitude": 24.72996171,
+    "longitude": 88.42448183,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.4636,
+    "name": "Kaligonj, Lalmonirhat",
+    "latitude": 25.96824336,
+    "longitude": 89.22406748,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.167,
+    "name": "Mohanganj,Netrokona",
+    "latitude": 24.868192,
+    "longitude": 90.976036,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.1875,
+    "name": "Nawabganj, Dinajpur",
+    "latitude": 25.41966667,
+    "longitude": 89.07833333,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.1348,
+    "name": "Nageshwari, Kurigram",
+    "latitude": 25.96663768,
+    "longitude": 89.69116157,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.015,
+    "name": "Chitalmari, Bagerhat",
+    "latitude": 22.786355,
+    "longitude": 89.877692,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.16,
+    "name": "Patgram, Lalmonirhat",
+    "latitude": 26.34811632,
+    "longitude": 89.02534906,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.3982,
+    "name": "Manda, Naogaon",
+    "latitude": 24.759444,
+    "longitude": 88.708615,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.2024,
+    "name": "Mudaffargonj, Cumilla",
+    "latitude": 23.269783,
+    "longitude": 91.044728,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.7546,
+    "name": "Birol, Dinajpur",
+    "latitude": 25.63351074,
+    "longitude": 88.54981101,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.1035,
+    "name": "CHARIGRAM, MANIKGONJ",
+    "latitude": 23.763041,
+    "longitude": 90.126643,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.1646,
+    "name": "Rupgonj, Narayangonj",
+    "latitude": 23.785487,
+    "longitude": 90.522356,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.4536,
+    "name": "Bolla Bazar,Tangail",
+    "latitude": 24.331981,
+    "longitude": 90.028459,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.102,
+    "name": "Kaliakair, Gazipur",
+    "latitude": 24.073118,
+    "longitude": 90.213053,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.526,
+    "name": "Shamgonj, Mymensingh ",
+    "latitude": 24.844837,
+    "longitude": 90.585505,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.7822,
+    "name": "CHANDRAGHONA, RANGAMATI",
+    "latitude": 22.467157,
+    "longitude": 92.129891,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.3667,
+    "name": "Mograpara Chourasta, Sonargaon",
+    "latitude": 23.635952,
+    "longitude": 90.594148,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.506,
+    "name": "Konakhola, Keranigonj",
+    "latitude": 23.69797222,
+    "longitude": 90.34333333,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.4346,
+    "name": "Subarna Char, Noakhali",
+    "latitude": 22.635927,
+    "longitude": 91.119612,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.7656,
+    "name": "Naikhongchhari, Bandarban",
+    "latitude": 21.426635,
+    "longitude": 92.176436,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.141,
+    "name": "Laldighi, Chottogram",
+    "latitude": 22.33891,
+    "longitude": 91.837741,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.61,
+    "name": "Oxygen, Chattagram",
+    "latitude": 22.39739,
+    "longitude": 91.820264,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.1653,
+    "name": "Purbachal POP",
+    "latitude": 23.833187,
+    "longitude": 90.529223,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.0461,
+    "name": "BHASANCHAR, NOAKHALI",
+    "latitude": 22.369088,
+    "longitude": 91.39033,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.0015,
+    "name": "Payra Port POP",
+    "latitude": 21.990382,
+    "longitude": 90.276937,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.2327,
+    "name": "Jhilonja, Coxs Bazar ",
+    "latitude": 21.425051,
+    "longitude": 92.013383,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.4163,
+    "name": "Mirpur-12, Dhaka",
+    "latitude": 23.821165,
+    "longitude": 90.368625,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.215,
+    "name": "Mirpur-1, Dhaka",
+    "latitude": 23.798314,
+    "longitude": 90.353607,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.6008,
+    "name": "Korean EPZ, Chattogram",
+    "latitude": 22.226334,
+    "longitude": 91.841022,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.5503,
+    "name": "Bahaddarhat ,Chattogram",
+    "latitude": 22.368803,
+    "longitude": 91.848588,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.2917,
+    "name": "Aganagar,Dhaka",
+    "latitude": 23.705802,
+    "longitude": 90.399391,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.006,
+    "name": "Uttara-11,Dhaka",
+    "latitude": 23.876347,
+    "longitude": 90.389747,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.6267,
+    "name": "Court Bazar, Ukhiya, Cox'sbazar",
+    "latitude": 21.2756,
+    "longitude": 92.1039,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.7039,
+    "name": "Boshila,Dhaka",
+    "latitude": 23.745291,
+    "longitude": 90.351677,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.1877,
+    "name": "Dania,Dhaka",
+    "latitude": 23.703186,
+    "longitude": 90.4484,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.3325,
+    "name": "Shatarkul,Dhaka",
+    "latitude": 23.786847,
+    "longitude": 90.429743,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.858,
+    "name": "South Banasree, Dhaka",
+    "latitude": 23.750872,
+    "longitude": 90.440912,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.6287,
+    "name": "Ring Road-Mohammedpur,Dhaka",
+    "latitude": 23.766642,
+    "longitude": 90.357024,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.5122,
+    "name": "Nikunja-2, Dhaka",
+    "latitude": 23.83316,
+    "longitude": 90.41763,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.0693,
+    "name": "Kuril,Dhaka",
+    "latitude": 23.816607,
+    "longitude": 90.420868,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.1743,
+    "name": "Karnafuli,Chattogram",
+    "latitude": 22.313691,
+    "longitude": 91.856139,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.3208,
+    "name": "Gulshan1 (MIrTel)",
+    "latitude": 23.781837,
+    "longitude": 90.415829,
+    "address": "",
+    "equipmentType": ""
+  },
+  {
+    "id": 1785668907680.797,
+    "name": "Halishahar, Chottogram",
+    "latitude": 22.329225,
+    "longitude": 91.788522,
+    "address": "",
+    "equipmentType": ""
+  }
+]
