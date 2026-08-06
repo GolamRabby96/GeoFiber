@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import MapComponent from './components/MapComponent.jsx';
 import DistanceInput from './components/DistanceInput.jsx';
+import FiberDistanceUpload from './components/FiberDistanceUpload.jsx';
 
 const API_URL = '/api';
 
@@ -54,6 +55,8 @@ function AppContent() {
           )}
         </div>
 
+        <FiberDistanceUpload />
+
         <DistanceInput onCalculate={calculateDistance} loading={loading} />
 
         {result && (
@@ -81,10 +84,6 @@ function AppContent() {
                 {result.fiberDistance ? (
                   <p style={{ color: '#1565c0' }}>
                     <strong>Fiber Distance:</strong> {result.fiberDistance} meter
-                  </p>
-                ) : result.roadDistanceError ? (
-                  <p style={{ color: '#f57c00' }}>
-                    <strong>Fiber Distance:</strong> Not available (needs road distance)
                   </p>
                 ) : null}
                 {result.roadDistance ? (
