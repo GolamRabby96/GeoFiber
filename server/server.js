@@ -2,6 +2,7 @@ import express from 'express';
 import cors from 'cors';
 import uploadRoutes from './routes/upload.js';
 import distanceRoutes from './routes/distance.js';
+import path from 'path';
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -13,8 +14,14 @@ app.use(express.urlencoded({ extended: true }));
 app.use('/api/upload', uploadRoutes);
 app.use('/api/distance', distanceRoutes);
 
+app.use(express.static(path.join(process.cwd(), '..', 'client', 'dist')));
+
 app.get('/api/health', (req, res) => {
   res.json({ status: 'ok', message: 'Distribution Distance API is running' });
+});
+
+app.get('*', (req, res) => {
+  res.sendFile(path.join(process.cwd(), '..', 'client', 'dist', 'index.html'));
 });
 
 app.listen(PORT, () => {
