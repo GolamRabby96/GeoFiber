@@ -100,7 +100,7 @@ function FiberDistanceUpload() {
 
   return (
     <div style={{ marginTop: '20px', padding: '15px', background: 'white', borderRadius: '8px', boxShadow: '0 2px 4px rgba(0,0,0,0.1)' }}>
-      <h3 style={{ marginTop: 0, color: '#333' }}>Fiber Distance Calculator</h3>
+      <h3 style={{ marginTop: 0, color: '#333' }}>Bulk File Calculation</h3>
       <p style={{ fontSize: '12px', color: '#666', marginBottom: '15px' }}>
         Upload an Excel file with a single latitude/longitude column like "23.8103, 90.4125". The system will calculate fiber distance along the road and add new columns. Blank or invalid coordinates will be skipped.
       </p>

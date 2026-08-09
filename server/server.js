@@ -1,8 +1,12 @@
 import express from 'express';
 import cors from 'cors';
+import path from 'path';
+import dotenv from 'dotenv';
+
+dotenv.config();
+
 import uploadRoutes from './routes/upload.js';
 import distanceRoutes from './routes/distance.js';
-import path from 'path';
 
 const app = express();
 const PORT = process.env.PORT || 5000;

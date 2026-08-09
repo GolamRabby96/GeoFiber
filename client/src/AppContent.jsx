@@ -46,17 +46,6 @@ function AppContent() {
   return (
     <div style={{ display: 'flex', height: '100vh', overflow: 'hidden' }}>
       <div style={{ width: '350px', background: '#f5f5f5', padding: '20px', overflowY: 'auto', borderRight: '1px solid #ddd' }}>
-        <div style={{ marginTop: '20px', padding: '15px', background: 'white', borderRadius: '8px', boxShadow: '0 2px 4px rgba(0,0,0,0.1)' }}>
-          <h3 style={{ marginTop: 0, color: '#333' }}>Distribution Points ({points.length})</h3>
-          {points.length === 0 ? (
-            <p style={{ color: '#666', fontSize: '14px' }}>No points loaded. Contact admin to upload data.</p>
-          ) : (
-            <p style={{ color: '#333', fontSize: '14px' }}>{points.length} distribution points loaded</p>
-          )}
-        </div>
-
-        <FiberDistanceUpload />
-
         <DistanceInput onCalculate={calculateDistance} loading={loading} />
 
         {result && (
@@ -88,17 +77,19 @@ function AppContent() {
                 ) : null}
                 {result.roadDistance ? (
                   <p style={{ color: '#2e7d32', fontWeight: 'bold' }}>
-                    <strong>Road Distance:</strong> {result.roadDistance} km
+                    <strong>Walking Distance:</strong> {result.roadDistance} km
                   </p>
                 ) : (
                   <p style={{ color: '#f57c00' }}>
-                    <strong>Road Distance:</strong> {result.roadDistanceError || 'Not available'}
+                    <strong>Walking Distance:</strong> {result.roadDistanceError || 'Not available'}
                   </p>
                 )}
               </div>
             )}
           </div>
         )}
+
+        <FiberDistanceUpload />
       </div>
 
       <div style={{ flex: 1 }}>

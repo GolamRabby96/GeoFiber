@@ -35,6 +35,59 @@ function haversineDistance(lat1, lon1, lat2, lon2) {
   return R * c;
 }
 
+async function getWalkingRoute(lat1, lng1, lat2, lng2) {
+  const apiKey = process.env.GRAPHOPPER_API_KEY || '';
+  if (!apiKey) return null;
+
+  try {
+    const url = `https://graphhopper.com/api/1/route?point=${lat1},${lng1}&point=${lat2},${lng2}&vehicle=foot&locale=en&unit=km&key=${apiKey}&points_encoded=false`;
+    const response = await axios.get(url, { timeout: 15000 });
+
+    if (response.data && response.data.paths && response.data.paths.length > 0) {
+      const path = response.data.paths[0];
+      const coords = (path.points && path.points.coordinates || []).map(coord => [coord[1], coord[0]]);
+      return {
+        distance: path.distance / 1000,
+        coordinates: coords,
+        source: 'graphhopper'
+      };
+    }
+  } catch (error) {
+    console.error('GraphHopper walking error:', error.message);
+  }
+
+  return null;
+}
+
+async function getWalkingRouteFallback(lat1, lng1, lat2, lng2) {
+  try {
+    const osrmUrl = `http://router.project-osrm.org/route/v1/walking/${lng1},${lat1};${lng2},${lat2}?overview=full&geometries=geojson`;
+    const response = await axios.get(osrmUrl, { timeout: 10000 });
+
+    if (response.data.code === 'Ok' && response.data.routes && response.data.routes.length > 0) {
+      const route = response.data.routes[0];
+      const coords = route.geometry && route.geometry.coordinates
+        ? route.geometry.coordinates.map(coord => [coord[1], coord[0]])
+        : [];
+      return {
+        distance: route.distance / 1000,
+        coordinates: coords
+      };
+    }
+  } catch (error) {
+    console.error('OSRM walking fallback error:', error.message);
+  }
+
+  return null;
+}
+
+async function getWalkingDistanceAndRoute(lat1, lng1, lat2, lng2) {
+  const ghResult = await getWalkingRoute(lat1, lng1, lat2, lng2);
+  if (ghResult) return ghResult;
+
+  return await getWalkingRouteFallback(lat1, lng1, lat2, lng2);
+}
+
 router.post('/calculate-distance', async (req, res) => {
   try {
     const { lat, lng } = req.body;
@@ -68,18 +121,13 @@ router.post('/calculate-distance', async (req, res) => {
     let routeCoordinates = [];
 
     try {
-      const osrmUrl = `http://router.project-osrm.org/route/v1/driving/${lng},${lat};${nearestPoint.longitude},${nearestPoint.latitude}?overview=full&geometries=geojson`;
-      const response = await axios.get(osrmUrl, { timeout: 10000 });
-
-      if (response.data.code === 'Ok' && response.data.routes && response.data.routes.length > 0) {
-        const route = response.data.routes[0];
-        roadDistance = route.distance / 1000;
-        if (route.geometry && route.geometry.coordinates) {
-          routeCoordinates = route.geometry.coordinates.map(coord => [coord[1], coord[0]]);
-        }
+      const routeResult = await getWalkingDistanceAndRoute(lat, lng, nearestPoint.latitude, nearestPoint.longitude);
+      if (routeResult) {
+        roadDistance = routeResult.distance;
+        routeCoordinates = routeResult.coordinates;
       }
     } catch (error) {
-      console.error('OSRM error:', error);
+      console.error('Walking route error:', error);
     }
 
     const distanceKm = roadDistance !== null ? roadDistance : minDistance;
@@ -101,7 +149,7 @@ router.post('/calculate-distance', async (req, res) => {
         straightLineDistance: minDistance.toFixed(2),
         fiberDistance: fiberDistance,
         roadDistance: roadDistance !== null ? roadDistance.toFixed(2) : null,
-        roadDistanceError: roadDistance === null ? 'Could not calculate road distance using OSRM' : null,
+        roadDistanceError: roadDistance === null ? 'Could not calculate walking distance' : null,
         routeCoordinates: routeCoordinates,
         unit: 'km'
       });
@@ -163,15 +211,12 @@ async function calculateFiberDistance(lat, lng, points) {
   let roadDistanceKm = null;
 
   try {
-    const osrmUrl = `http://router.project-osrm.org/route/v1/driving/${lng},${lat};${nearestPoint.longitude},${nearestPoint.latitude}?overview=false`;
-    const response = await axios.get(osrmUrl, { timeout: 10000 });
-
-    if (response.data.code === 'Ok' && response.data.routes && response.data.routes.length > 0) {
-      const route = response.data.routes[0];
-      roadDistanceKm = route.distance / 1000;
+    const routeResult = await getWalkingDistanceAndRoute(lat, lng, nearestPoint.latitude, nearestPoint.longitude);
+    if (routeResult) {
+      roadDistanceKm = routeResult.distance;
     }
   } catch (error) {
-    console.error('OSRM bulk error:', error);
+    console.error('Walking route bulk error:', error);
   }
 
   const distanceKm = roadDistanceKm !== null ? roadDistanceKm : minDistance;
@@ -275,11 +320,9 @@ router.post('/bulk-calculate', upload.single('file'), async (req, res) => {
         row[nearestPointKey] = nearestPoint ? nearestPoint.name : '';
 
         try {
-          const osrmUrl = `http://router.project-osrm.org/route/v1/driving/${lng},${lat};${nearestPoint.longitude},${nearestPoint.latitude}?overview=false`;
-          const response = await axios.get(osrmUrl, { timeout: 10000 });
-          if (response.data.code === 'Ok' && response.data.routes && response.data.routes.length > 0) {
-            const route = response.data.routes[0];
-            row[roadDistanceKey] = (route.distance / 1000).toFixed(2);
+          const routeResult = await getWalkingDistanceAndRoute(lat, lng, nearestPoint.latitude, nearestPoint.longitude);
+          if (routeResult) {
+            row[roadDistanceKey] = routeResult.distance.toFixed(2);
           } else {
             row[roadDistanceKey] = '';
           }
