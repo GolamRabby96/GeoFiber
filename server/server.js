@@ -2,11 +2,15 @@ import express from 'express';
 import cors from 'cors';
 import path from 'path';
 import dotenv from 'dotenv';
+import { fileURLToPath } from 'url';
 
 dotenv.config();
 
 import uploadRoutes from './routes/upload.js';
 import distanceRoutes from './routes/distance.js';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -24,12 +28,13 @@ app.get('/api/health', (req, res) => {
 app.use('/api/upload', uploadRoutes);
 app.use('/api/distance', distanceRoutes);
 
-// 3. Static Assets (Client Build Folder)
-app.use(express.static(path.join(process.cwd(), '..', 'client', 'dist')));
+// 3. Static Assets (ডাইরেক্টরি ডাইনামিকালি পয়েন্ট করা হয়েছে)
+const clientDistPath = path.resolve(__dirname, '../client/dist');
+app.use(express.static(clientDistPath));
 
-// 4. Catch-all Route for React Router (API Route গুলোর নিচে থাকবে)
+// 4. Catch-all Route for React Router
 app.get('*', (req, res) => {
-  res.sendFile(path.join(process.cwd(), '..', 'client', 'dist', 'index.html'));
+  res.sendFile(path.join(clientDistPath, 'index.html'));
 });
 
 app.listen(PORT, () => {
