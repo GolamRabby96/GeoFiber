@@ -6,7 +6,8 @@ import path from 'path';
 
 const router = express.Router();
 
-const DATA_FILE = path.join(process.cwd(), 'data', 'distribution-points.json');
+const DATA_DIR = path.join(process.cwd(), 'data');
+const DATA_FILE = path.join(DATA_DIR, 'distribution-points.json');
 
 const storage = multer.memoryStorage();
 const upload = multer({ storage: storage });
@@ -25,7 +26,12 @@ function readPoints() {
 
 function writePoints(points) {
   try {
-    fs.writeFileSync(DATA_FILE, JSON.stringify(points, null, 2), 'utf-8');
+    // ১. data ফোল্ডার না থাকলে স্বয়ংক্রিয়ভাবে তৈরি করবে
+    if (!fs.existsSync(DATA_DIR)) {
+      fs.mkdirSync(DATA_DIR, { recursive: true });
+    }
+    // ২. ফাইলে ডাটা সেভ করবে
+    fs.writeFileSync(DATA_FILE, JSON.stringify(points, null, 2), 'utf8');
     return true;
   } catch (error) {
     console.error('Error writing points:', error);
