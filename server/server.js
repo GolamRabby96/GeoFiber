@@ -15,15 +15,19 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-app.use('/api/upload', uploadRoutes);
-app.use('/api/distance', distanceRoutes);
-
-app.use(express.static(path.join(process.cwd(), '..', 'client', 'dist')));
-
+// 1. Health Check Route
 app.get('/api/health', (req, res) => {
   res.json({ status: 'ok', message: 'Distribution Distance API is running' });
 });
 
+// 2. API Routes
+app.use('/api/upload', uploadRoutes);
+app.use('/api/distance', distanceRoutes);
+
+// 3. Static Assets (Client Build Folder)
+app.use(express.static(path.join(process.cwd(), '..', 'client', 'dist')));
+
+// 4. Catch-all Route for React Router (API Route গুলোর নিচে থাকবে)
 app.get('*', (req, res) => {
   res.sendFile(path.join(process.cwd(), '..', 'client', 'dist', 'index.html'));
 });
