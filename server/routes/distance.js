@@ -2,7 +2,7 @@ import express from 'express';
 import axios from 'axios';
 import multer from 'multer';
 import xlsx from 'xlsx';
-import DistributionPoint from '../models/DistributionPoint.js';
+import Point from '../models/Point.js';
 
 const router = express.Router();
 
@@ -10,7 +10,7 @@ const storage = multer.memoryStorage();
 const upload = multer({ storage: storage });
 
 async function getPoints() {
-  const points = await DistributionPoint.find({});
+  const points = await Point.find({});
   return points.map(p => ({
     id: p._id.toString(),
     name: p.name,

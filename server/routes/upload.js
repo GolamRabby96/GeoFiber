@@ -1,10 +1,9 @@
+import Point from '../models/Point.js';
 import express from 'express';
 import multer from 'multer';
 import xlsx from 'xlsx';
-import DistributionPoint from '../models/DistributionPoint.js';
 
 const router = express.Router();
-
 const storage = multer.memoryStorage();
 const upload = multer({ storage: storage });
 
@@ -36,7 +35,11 @@ router.post('/upload', upload.single('file'), async (req, res) => {
     const worksheet = workbook.Sheets[sheetName];
     const rawData = xlsx.utils.sheet_to_json(worksheet);
 
-    const sampleKeys = rawData.length > 0 ? Object.keys(rawData[0]) : [];
+    if (!rawData.length) {
+      return res.status(400).json({ error: 'Excel file is empty' });
+    }
+
+    const sampleKeys = Object.keys(rawData[0]);
     const normalizedKeys = sampleKeys.map(normalizeKey);
 
     const latKey = findKey(normalizedKeys, LAT_KEYS);
@@ -51,7 +54,6 @@ router.post('/upload', upload.single('file'), async (req, res) => {
     let insertedCount = 0;
     let skippedCount = 0;
     const errors = [];
-
     const pointsToInsert = [];
 
     for (const row of rawData) {
@@ -109,7 +111,7 @@ router.post('/upload', upload.single('file'), async (req, res) => {
     }
 
     if (pointsToInsert.length > 0) {
-      await DistributionPoint.insertMany(pointsToInsert);
+      await Point.insertMany(pointsToInsert);
     }
 
     res.json({
@@ -155,33 +157,37 @@ router.post('/debug', upload.single('file'), async (req, res) => {
       sampleRows: rawData.slice(0, 5)
     });
   } catch (error) {
+    console.error('Debug error:', error);
     res.status(500).json({ error: error.message });
   }
 });
 
 router.get('/points', async (req, res) => {
   try {
-    const points = await DistributionPoint.find({});
+    const points = await Point.find({}).lean();
     res.json(points);
   } catch (error) {
+    console.error('Error fetching points:', error);
     res.status(500).json({ error: error.message });
   }
 });
 
 router.delete('/points/:id', async (req, res) => {
   try {
-    await DistributionPoint.findByIdAndDelete(req.params.id);
+    await Point.findByIdAndDelete(req.params.id);
     res.json({ message: 'Point deleted' });
   } catch (error) {
+    console.error('Error deleting point:', error);
     res.status(500).json({ error: error.message });
   }
 });
 
 router.delete('/points', async (req, res) => {
   try {
-    await DistributionPoint.deleteMany({});
+    await Point.deleteMany({});
     res.json({ message: 'All points deleted' });
   } catch (error) {
+    console.error('Error deleting all points:', error);
     res.status(500).json({ error: error.message });
   }
 });

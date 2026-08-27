@@ -1,6 +1,6 @@
 import mongoose from 'mongoose';
 
-const distributionPointSchema = new mongoose.Schema({
+const pointSchema = new mongoose.Schema({
   name: { type: String, required: true },
   latitude: { type: Number, required: true },
   longitude: { type: Number, required: true },
@@ -8,6 +8,6 @@ const distributionPointSchema = new mongoose.Schema({
   equipmentType: { type: String, default: '' }
 }, { timestamps: true });
 
-distributionPointSchema.index({ latitude: 1, longitude: 1 });
+pointSchema.index({ latitude: 1, longitude: 1 });
 
-export default mongoose.model('DistributionPoint', distributionPointSchema);
+export default mongoose.model('Point', pointSchema);

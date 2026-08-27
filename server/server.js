@@ -5,7 +5,7 @@ import dotenv from 'dotenv';
 import { fileURLToPath } from 'url';
 import mongoose from 'mongoose';
 
-dotenv.config();
+dotenv.config({ path: path.resolve(__dirname, '.env') });
 
 import uploadRoutes from './routes/upload.js';
 import distanceRoutes from './routes/distance.js';
