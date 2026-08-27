@@ -16,8 +16,17 @@ function DistanceInput({ onCalculate, loading }) {
       const response = await fetch('/api/upload/points');
       const data = await response.json();
       setPoints(data);
+      localStorage.setItem('distributionPoints', JSON.stringify(data));
     } catch (error) {
       console.error('Error fetching points:', error);
+      const cached = localStorage.getItem('distributionPoints');
+      if (cached) {
+        try {
+          setPoints(JSON.parse(cached));
+        } catch (e) {
+          console.error('Error parsing cached points:', e);
+        }
+      }
     }
   };
 

@@ -45,6 +45,13 @@ function FileUpload({ onUploadSuccess }) {
       });
       setUploadResult(response.data);
       onUploadSuccess();
+      try {
+        const pointsRes = await fetch('/api/upload/points');
+        const points = await pointsRes.json();
+        localStorage.setItem('distributionPoints', JSON.stringify(points));
+      } catch (e) {
+        console.error('Failed to cache points:', e);
+      }
     } catch (error) {
       setMessage({
         type: 'error',
@@ -87,6 +94,7 @@ function FileUpload({ onUploadSuccess }) {
 
     try {
       await axios.delete(`${API_URL}/upload/points`);
+      localStorage.removeItem('distributionPoints');
       setMessage({ type: 'success', text: 'All points deleted' });
       onUploadSuccess();
     } catch (error) {
